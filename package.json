@@ -1,0 +1,19 @@
+{
+  "name": "forkify",
+  "version": "0.1.0",
+  "description": "Testing app",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Trash0101",
+  "license": "ISC",
+  "dependencies": {
+    "fraction": "^0.2.0",
+    "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
+    "sass": "^1.58.3",
+    "vite": "^4.1.4"
+  }
+}
