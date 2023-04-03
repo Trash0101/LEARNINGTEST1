@@ -80,7 +80,10 @@ const controlAddBookmark = () => {
 const controlBookmarks = () => {
   bookmarksView.render(model.state.bookmarks);
 }
-
+const newFeauture = () => {
+  console.log('WelCUM');
+}
+newFeauture();
 const controlAddRecipe = async (newRecipe) => {
   try {
     //SPEEEEEEN
